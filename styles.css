@@ -1,0 +1,35 @@
+body
+{
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1
+{
+    font-size: 50px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.merry
+{
+    color: red;
+}
+
+.merry:hover
+{
+    color: green;
+}
+
+.merry-alt
+{
+    color: green;
+}
+
+button
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: green;
+    border-radius: 6px;
+}
